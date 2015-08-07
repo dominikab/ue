@@ -583,10 +583,16 @@ Hero
     min-height: 800px;
     background: rgb(40, 70, 102) url('../img/hero-01.png') no-repeat center center;
     background-size: cover;
-    color: #fff;
+    color: #322D2D;
 }
 .contact  {
-    color: #a1a9b0;;
+    color: #a1a9b0;
+}
+.unsplash{
+    color: #a1a9b0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
 }
 .hero h1 {
     margin: 20px 0 45px 0;
