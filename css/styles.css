@@ -119,22 +119,6 @@ h2 {
     margin: 0.83em 0;
     font-size: 1.5em;
 }
-h3 {
-    margin: 1em 0;
-    font-size: 1.17em;
-}
-h4 {
-    margin: 1.33em 0;
-    font-size: 1em;
-}
-h5 {
-    margin: 1.67em 0;
-    font-size: 0.83em;
-}
-h6 {
-    margin: 2.33em 0;
-    font-size: 0.75em;
-}
 
 /*
 * Addresses styling not present in IE 7/8/9, Safari 5, and Chrome.
